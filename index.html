@@ -1,53 +1,38 @@
-<!DOCTYPE html>
- 
- 
+<html>
 <head>
- 
-  <!--Set CSS-->
-  <link rel="stylesheet" type="text/css" href="css/style.css" />
- 
-  <title>Businesss Intelligence</title>
- 
+   <title>Leaflet KML Example</title>
+   
+   <link rel="stylesheet" href="css/leaflet.css" />
+   <!--[if lte IE 8]><link rel="stylesheet" href="leaflet/leaflet.ie.css" /><![endif]-->
+   
+   <script src="js/leaflet.js"></script>
+   
+   <!-- Bring in the leaflet KML plugin -->
+   <script src="js/KML.js"></script>  
+   	
+   <script language="javascript">
+      function init() {
+         var map = new L.Map('map');                       
+        
+      	 L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+            maxZoom: 18
+         }).addTo(map);
+         map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
+                                                             
+	var kmlLayer = new L.KML("data/localAuthorities.kml", {async: true});
+                                                              
+         kmlLayer.on("loaded", function(e) { 
+            map.fitBounds(e.target.getBounds());
+         });
+                                                
+         map.addLayer(kmlLayer);
+         
+      }
+   </script>
 </head>
- 
- 
-<body>
-  
-<div id="mapWrapper"> 
-<div id="map-canvas"></div>
-
-
-<div id="upperWrapper">
-
-<b>BUSINESS </b>INTELLIGENCE
-
-
-
-
-<div class="nav">
- 
-  <ul>
- 
-    <li><a href="./Mapping-About.html">Home</a></li>
- 
-    <li id="current">Maps</li>
- 
-    <li><a href="./Mapping-links.html">Admin</a></li>
- 
-	<li><a href="./Mapping-Hub.html">My profile</a></li>
- 
-  </ul>
-</div>
-
-</div>
-
-
-
-<br clear="both"/>
-</div>
-
-
-</body>
- 
- 
+<body onLoad="javascript:init();">
+   <div id="map" style="height: 600px"></div>
+   
+</body>            
 </html>
