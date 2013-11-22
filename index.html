@@ -1,0 +1,64 @@
+<html>
+<head>
+   <title>Leaflet KML Example</title>
+   
+   <link rel="stylesheet" href="css/leaflet.css" />
+   <!--[if lte IE 8]><link rel="stylesheet" href="leaflet/leaflet.ie.css" /><![endif]-->
+   
+   <script src="js/leaflet.js"></script>
+   
+   <!-- Bring in the leaflet KML plugin -->
+   <script src="js/KML.js"></script>  
+   	
+   <script language="javascript">
+      function init() {
+<<<<<<< HEAD
+         var map = new L.Map('map').setView([55.858,-4.259],13);                       
+=======
+         var map = new L.Map('map').setView([55.858, -4.259], 13);;                       
+>>>>>>> 7293e298554da6751b8f2a78c4e0fc3b1745058b
+ 	       
+      	 L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/22677/256/{z}/{x}/{y}.png', {
+            attribution: '© <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+            maxZoom: 18
+         }).addTo(map);
+         map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
+                                                             
+	var kmlLayer = new L.KML("data/localAuthorities.kml", {async: true});
+<<<<<<< HEAD
+                                                              
+         map.addLayer(kmlLayer);
+	
+	var kmlLayer2 = new L.KML("data/schools.kml", {async: true});
+                                                              
+         map.addLayer(kmlLayer2);
+ 	        
+=======
+           
+         kmlLayer.on("loaded", function(e) { 
+            map.fitBounds(e.target.getBounds());
+         });
+           
+         map.addLayer(kmlLayer);
+         
+         
+                    // Location of the marker
+         var markerLocation = new L.LatLng(55.858, -4.259);
+
+         var marker = new L.Marker(markerLocation);
+         map.addLayer(marker);
+           
+           
+                                                
+
+         
+>>>>>>> 7293e298554da6751b8f2a78c4e0fc3b1745058b
+      }
+   </script>
+</head>
+<body onLoad="javascript:init();">
+   <div id="map" style="height: 600px"></div>
+   <link rel="stylesheet" href="css/style.css" />
+   
+</body>            
+</html>
