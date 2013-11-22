@@ -45,7 +45,7 @@
 			</LabelStyle>
 			<LineStyle>
 				<color>7f0000ff</color>
-				<width>2</width>
+				<width>1</width>
 			</LineStyle>
 			<BalloonStyle>
 				<text>$[description]</text>
