@@ -12,7 +12,7 @@
    	
    <script language="javascript">
       function init() {
-         var map = new L.Map('map');                       
+         var map = new L.Map('map').setView([55.858, -4.259], 13);;                       
  	       
       	 L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/22677/256/{z}/{x}/{y}.png', {
             attribution: '© <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
@@ -21,10 +21,19 @@
          map.attributionControl.setPrefix(''); // Don't show the 'Powered by Leaflet' text.
                                                              
 	var kmlLayer = new L.KML("data/localAuthorities.kml", {async: true});
-                                                              
+           
          kmlLayer.on("loaded", function(e) { 
             map.fitBounds(e.target.getBounds());
          });
+           
+           
+                    // Location of the marker
+         var markerLocation = new L.LatLng(55.858, -4.259);
+
+         var marker = new L.Marker(markerLocation);
+         map.addLayer(marker);
+           
+           
                                                 
          map.addLayer(kmlLayer);
          
