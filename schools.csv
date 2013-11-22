@@ -1,0 +1,199 @@
+School_ID,LinkedClubs,Region,LocalAuthority,SEEDCode,Postscode,PostcodePlus,SchoolType,School,Sport,HasActivity,ActivitySessions,BeforeSchool,Lunchtime,AfterSchool,Evening,Weekend
+2592,none,West,Glasgow City Council,1001507,G20 9NY,"G20 9NY, Glasgow City Council",Primary,Highpark Primary School,Netball,0,0,0,0,0,0,0
+38,none,West,Glasgow City Council,8405328,G31 2TL,"G31 2TL, Glasgow City Council",Primary,Alexandra Parade Primary School,Netball,1,3,0,0,1,0,0
+61,none,West,Glasgow City Council,8411921,G15 8PR,"G15 8PR, Glasgow City Council",Primary,Antonine Primary School,Netball,1,4,0,0,1,0,0
+86,none,West,Glasgow City Council,8410429,G46 8DQ,"G46 8DQ, Glasgow City Council",Primary,Ashpark Primary School,Netball,1,5,0,0,1,0,0
+108,none,West,Glasgow City Council,8411123,G33 5NY,"G33 5NY, Glasgow City Council",Primary,Avenue End Primary School,Netball,1,4,0,0,1,0,0
+190,none,West,Glasgow City Council,8406820,G5 0SS,"G5 0SS, Glasgow City Council",Primary,Blackfriars Primary School,Netball,1,9,0,0,1,0,0
+199,none,West,Glasgow City Council,8406928,G15 6HL,"G15 6HL, Glasgow City Council",Primary,Blairdardie Primary School,Netball,1,5,0,1,0,0,0
+331,none,West,Glasgow City Council,8455422,G32 8AG,"G32 8AG, Glasgow City Council",Primary,Carmyle Primary School,Netball,1,5,0,0,1,0,0
+459,none,West,Glasgow City Council,8411220,G52 1AL,"G52 1AL, Glasgow City Council",Primary,Craigton Primary School,Netball,1,5,0,0,1,0,0
+478,none,West,Glasgow City Council,8416222,G53 5SD,"G53 5SD, Glasgow City Council",Primary,Crookston Castle Primary School,Netball,1,5,0,0,1,0,0
+529,none,West,Glasgow City Council,8446628,G53 7HT,"G53 7HT, Glasgow City Council",Primary,Darnley Primary School,Netball,1,5,0,0,1,0,0
+715,Broomhill Sports Club,West,Glasgow City Council,8456321,G69 6PP,"G69 6PP, Glasgow City Council",Primary,Garrowhill Primary School,Netball,1,2,0,0,1,0,0
+803,none,West,Glasgow City Council,8413223,G31 3LS,"G31 3LS, Glasgow City Council",Primary,Haghill Park Primary School,Netball,1,4,0,0,1,0,0
+844,none,West,Glasgow City Council,8413525,G12 8NS,"G12 8NS, Glasgow City Council",Primary,Hillhead Primary School,Netball,1,6,0,1,0,0,0
+847,none,West,Glasgow City Council,8413622,G52 2JL,"G52 2JL, Glasgow City Council",Primary,Hillington Primary School,Netball,1,5,0,0,1,0,0
+857,Glasgow South Saltires Netball Club,West,Glasgow City Council,8414122,G42 7NH,"G42 7NH, Glasgow City Council",Primary,Holy Cross Primary School,Netball,1,6,0,0,1,0,0
+879,none,West,Glasgow City Council,8414629,G51 2XP,"G51 2XP, Glasgow City Council",Primary,Ibrox Primary School,Netball,1,6,0,0,1,0,0
+1046,Harmony Row Netball Club,West,Glasgow City Council,8449325,G15 7AQ,"G15 7AQ, Glasgow City Council",Primary,Langfaulds Primary School,Netball,1,12,0,0,1,0,0
+1144,none,West,Glasgow City Council,8416028,G51 1DP,"G51 1DP, Glasgow City Council",Primary,Lorne Street Primary School,Netball,1,6,0,0,1,0,0
+1146,none,West,Glasgow City Council,8416125,G52 2DE,"G52 2DE, Glasgow City Council",Primary,Lourdes Primary School,Netball,1,5,0,0,1,0,0
+1194,none,West,Glasgow City Council,8416524,G43 2PR,"G43 2PR, Glasgow City Council",Primary,Merrylee Primary School,Netball,1,6,0,0,1,0,0
+1209,none,West,Glasgow City Council,8431221,G45 0EL,"G45 0EL, Glasgow City Council",Primary,Miller Primary School,Netball,1,6,0,0,1,0,0
+1241,none,West,Glasgow City Council,8416923,G52 1LZ,"G52 1LZ, Glasgow City Council",Primary,Mosspark Primary School,Netball,1,6,0,0,1,0,0
+1249,none,West,Glasgow City Council,8456526,G32 9NY,"G32 9NY, Glasgow City Council",Primary,Mount Vernon Primary School,Netball,1,8,0,0,1,0,0
+1331,none,West,Glasgow City Council,8417628,G4 9PW,"G4 9PW, Glasgow City Council",Primary,Oakgrove Primary School,Netball,1,6,0,0,1,0,0
+1352,none,West,Glasgow City Council,8417822,G43 2PR,"G43 2PR, Glasgow City Council",Primary,Our Lady of the Annunciation Primary School,Netball,1,6,0,0,1,0,0
+1398,none,West,Glasgow City Council,8410020,G51 4AW,"G51 4AW, Glasgow City Council",Primary,Pirie Park Primary School,Netball,1,5,0,0,1,0,0
+1465,none,West,Glasgow City Council,8400229,G51 2DJ,"G51 2DJ, Glasgow City Council",Primary,Riverside Primary School,Netball,1,5,0,0,1,0,0
+1503,Eastbank Netball Club,West,Glasgow City Council,8419728,G40 4AR,"G40 4AR, Glasgow City Council",Primary,Sacred Heart RC Primary School,Netball,1,8,0,0,1,0,0
+1517,none,West,Glasgow City Council,8428220,G52 2QY,"G52 2QY, Glasgow City Council",Primary,Sandwood Primary School,Netball,1,4,0,0,1,0,0
+1524,none,West,Glasgow City Council,8428522,G14 9HN,"G14 9HN, Glasgow City Council",Primary,Scotstoun Primary School,Netball,1,6,0,0,1,0,0
+1615,none,West,Glasgow City Council,8420726,G45 9TR,"G45 9TR, Glasgow City Council",Primary,St Bartholomew's RC Primary School,Netball,1,8,0,0,1,0,0
+1633,none,West,Glasgow City Council,8421323,G42 0EH,"G42 0EH, Glasgow City Council",Primary,St Bridgids RC Primary School,Netball,1,8,0,0,1,0,0
+1651,none,West,Glasgow City Council,8420521,G51 4AX,"G51 4AX, Glasgow City Council",Primary,St Constantine's RC Primary School (St Anthonys RCPS),Netball,1,5,0,0,1,0,0
+1674,none,West,Glasgow City Council,8449929,G69 7XB,"G69 7XB, Glasgow City Council",Primary,St Francis of Assisi RC Primary School,Netball,1,10,0,0,1,0,0
+1809,none,West,Glasgow City Council,8425728,G13 2AB,"G13 2AB, Glasgow City Council",Primary,St Ninians RC Primary School,Netball,1,5,0,1,0,0,0
+1838,Broomhill Sports Club,West,Glasgow City Council,8432325,G11 5QN,"G11 5QN, Glasgow City Council",Primary,St Peters RC Primary School,Netball,1,5,0,0,1,0,0
+1849,none,West,Glasgow City Council,8427127,G51 2DJ,"G51 2DJ, Glasgow City Council",Primary,St Saviours RC Primary School,Netball,1,5,0,0,1,0,0
+1870,none,West,Glasgow City Council,8428123,G46 8EY,"G46 8EY, Glasgow City Council",Primary,St Vincent RC Primary School (Carnwadric),Netball,1,5,0,0,1,0,0
+1929,none,West,Glasgow City Council,8429820,G33 5LA,"G33 5LA, Glasgow City Council",Primary,Sunnyside Primary School,Netball,1,10,0,0,1,0,0
+1954,none,West,Glasgow City Council,8430225,G32 6XL,"G32 6XL, Glasgow City Council",Primary,Thorntree Primary School,Netball,1,4,0,0,1,0,0
+1962,none,West,Glasgow City Council,8448426,G43 2XG,"G43 2XG, Glasgow City Council",Primary,Tinto Primary School,Netball,1,5,0,0,1,0,0
+1982,none,West,Glasgow City Council,8430624,G42 0ER,"G42 0ER, Glasgow City Council",Primary,Toryglen Primary School,Netball,1,6,0,0,1,0,0
+2028,none,West,Glasgow City Council,8415323,G21 3RH,"G21 3RH, Glasgow City Council",Primary,Wallacewell Primary School,Netball,1,9,0,0,1,0,0
+2135,none,West,Glasgow City Council,8432031,G41 5QE,"G41 5QE, Glasgow City Council",Secondary,Bellahouston Academy,Netball,1,7,0,0,1,0,0
+2175,Maryhill Netball Community Club,West,Glasgow City Council,8432236,G12 0JW,"G12 0JW, Glasgow City Council",Secondary,Cleveden Secondary School,Netball,1,4,0,0,1,0,0
+2385,none,West,Glasgow City Council,8436932,G41 3TR,"G41 3TR, Glasgow City Council",Secondary,Shawlands Academy,Netball,1,10,0,0,1,0,0
+2410,none,West,Glasgow City Council,8438331,G45 9NJ,"G45 9NJ, Glasgow City Council",Secondary,St Margaret Mary's Secondary School,Netball,1,3,0,0,1,0,0
+2469,none,West,Glasgow City Council,8448647,G4 9QH,"G4 9QH, Glasgow City Council",ASN,Abercorn School (ASN),Netball,0,0,0,0,0,0,0
+2103,none,West,Glasgow City Council,8431930,G21 3EN,"G21 3EN, Glasgow City Council",Secondary,All Saints RC Secondary,Netball,0,0,0,0,0,0,0
+54,none,West,Glasgow City Council,8405425,G3 8HY,"G3 8HY, Glasgow City Council",Primary,Anderston Primary School,Netball,0,0,0,0,0,0,0
+58,none,West,Glasgow City Council,8405522,G42 8YB,"G42 8YB, Glasgow City Council",Primary,Annette Street Primary School,Netball,0,0,0,0,0,0,0
+2472,none,West,Glasgow City Council,8458448,G33 3SW,"G33 3SW, Glasgow City Council",ASN,Ashcraig School (ASN),Netball,0,0,0,0,0,0,0
+138,none,West,Glasgow City Council,8405921,G21 3UT,"G21 3UT, Glasgow City Council",Primary,Balornock Primary School,Netball,0,0,0,0,0,0,0
+145,none,West,Glasgow City Council,8406022,G13 3AS,"G13 3AS, Glasgow City Council",Primary,Bankhead Primary School,Netball,0,0,0,0,0,0,0
+2127,none,West,Glasgow City Council,8458138,G69 7NS,"G69 7NS, Glasgow City Council",Secondary,Bannerman High School,Netball,0,0,0,0,0,0,0
+156,none,West,Glasgow City Council,8406324,G21 2AH,"G21 2AH, Glasgow City Council",Primary,Barmulloch Primary School,Netball,0,0,0,0,0,0,0
+164,none,West,Glasgow City Council,8406529,G42 9SY,"G42 9SY, Glasgow City Council",Primary,Battlefield Primary School,Netball,0,0,0,0,0,0,0
+243,Broomhill Sports Club,West,Glasgow City Council,8407428,G11 7HZ,"G11 7HZ, Glasgow City Council",Primary,Broomhill Primary School,Netball,0,0,0,0,0,0,0
+280,Maryhill Netball Community Club,West,Glasgow City Council,8407827,G23 5AR,"G23 5AR, Glasgow City Council",Primary,Cadder Primary School,Netball,0,0,0,0,0,0,0
+290,Maryhill Netball Community Club,West,Glasgow City Council,8459622,G23 5NR,"G23 5NR, Glasgow City Council",Primary,Caldercuilt Primary School,Netball,0,0,0,0,0,0,0
+294,Broomhill Sports Club,West,Glasgow City Council,8455023,G69 7DJ,"G69 7DJ, Glasgow City Council",Primary,Caledonia Primary School,Netball,0,0,0,0,0,0,0
+303,Harmony Row Netball Club,West,Glasgow City Council,8400024,G15 7LG,"G15 7LG, Glasgow City Council",Primary,Camstradden Primary School,Netball,0,0,0,0,0,0,0
+2584,none,West,Glasgow City Council,8442347,G32 8NJ,"G32 8NJ, Glasgow City Council",ASN,Cardinal Winning (ASN),Netball,0,0,0,0,0,0,0
+317,none,West,Glasgow City Council,8408025,G52 3HD,"G52 3HD, Glasgow City Council",Primary,Cardonald Primary School,Netball,0,0,0,0,0,0,0
+330,none,West,Glasgow City Council,8455325,G76 9AJ,"G76 9AJ, Glasgow City Council",Primary,Carmunnock Primary School,Netball,0,0,0,0,0,0,0
+336,Eastbank Netball Club,West,Glasgow City Council,8410321,G33 2HF,"G33 2HF, Glasgow City Council",Primary,Carntyne Primary School,Netball,0,0,0,0,0,0,0
+2171,Southside Saltires Netball Club,West,Glasgow City Council,8434034,G45 9JY,"G45 9JY, Glasgow City Council",Secondary,Castlemilk High School,Netball,0,0,0,0,0,0,0
+358,Southside Saltires Netball Club,West,Glasgow City Council,8410526,G45 9NW,"G45 9NW, Glasgow City Council",Primary,Castleton Primary School,Netball,0,0,0,0,0,0,0
+383,The Nets,West,Glasgow City Council,8410623,G22 7SB,"G22 7SB, Glasgow City Council",Primary,Chyrnside Primary School,Netball,0,0,0,0,0,0,0
+390,none,West,Glasgow City Council,8414327,G53 6NL,"G53 6NL, Glasgow City Council",Primary,Cleeves Primary School,Netball,0,0,0,0,0,0,0
+430,none,West,Glasgow City Council,8411026,G13 3BH,"G13 3BH, Glasgow City Council",Primary,Corpus Christi Primary School,Netball,0,0,0,0,0,0,0
+472,Glasgow South Saltires Netball Club,West,Glasgow City Council,8411328,G44 5QQ,"G44 5QQ, Glasgow City Council",Primary,Croftfoot Primary School,Netball,0,0,0,0,0,0,0
+505,none,West,Glasgow City Council,8411425,G42 7RJ,"G42 7RJ, Glasgow City Council",Primary,Cuthbertson Primary School,Netball,0,0,0,0,0,0,0
+515,none,West,Glasgow City Council,8411522,G40 3BA,"G40 3BA, Glasgow City Council",Primary,Dalmarnock Primary School,Netball,0,0,0,0,0,0,0
+2201,Harmony Row Netball Club,West,Glasgow City Council,8459932,G15 7SQ,"G15 7SQ, Glasgow City Council",Secondary,Drumchapel High School,Netball,0,0,0,0,0,0,0
+2491,none,West,Glasgow City Council,8440344,G15 7NH,"G15 7NH, Glasgow City Council",ASN,Drummore School (ASN),Netball,0,0,0,0,0,0,0
+573,Maryhill Netball Community Club,West,Glasgow City Council,8412022,G20 6RL,"G20 6RL, Glasgow City Council",Primary,Dunard Primary School,Netball,0,0,0,0,0,0,0
+2213,none,West,Glasgow City Council,8433232,G32 9AA,"G32 9AA, Glasgow City Council",Secondary,Eastbank Academy,Netball,0,0,0,0,0,0,0
+618,none,West,Glasgow City Council,8412227,G32 0HA,"G32 0HA, Glasgow City Council",Primary,Eastbank Primary School,Netball,0,0,0,0,0,0,0
+2493,Broomhill Sports Club,West,Glasgow City Council,8440441,G33 4QL,"G33 4QL, Glasgow City Council",ASN,Eastmuir School (ASN),Netball,0,0,0,0,0,0,0
+641,none,West,Glasgow City Council,8412529,G22 6ED,"G22 6ED, Glasgow City Council",Primary,Elmvale Primary School,Netball,0,0,0,0,0,0,0
+714,none,West,Glasgow City Council,8412723,G3 6TX,"G3 6TX, Glasgow City Council",Primary,Garnetbank Primary School,Netball,0,0,0,0,0,0,0
+716,none,West,Glasgow City Council,8412820,G13 4AY,"G13 4AY, Glasgow City Council",Primary,Garscadden Primary School,Netball,0,0,0,0,0,0,0
+755,none,West,Glasgow City Council,8444323,G41 1NX,"G41 1NX, Glasgow City Council",Primary,Glendale Primary School,Netball,0,0,0,0,0,0,0
+769,none,West,Glasgow City Council,8412928,G31 2QF,"G31 2QF, Glasgow City Council",Primary,Golfhill Primary School,Netball,0,0,0,0,0,0,0
+2238,none,West,Glasgow City Council,8433836,G51 4NB,"G51 4NB, Glasgow City Council",Secondary,Govan High School,Netball,0,0,0,0,0,0,0
+777,none,West,Glasgow City Council,8413029,G53 6JB,"G53 6JB, Glasgow City Council",Primary,Gowanbank Primary School,Netball,0,0,0,0,0,0,0
+2506,none,West,Glasgow City Council,8443440,G5 0HP,"G5 0HP, Glasgow City Council",ASN,Hampden School (ASN),Netball,0,0,0,0,0,0,0
+2508,none,West,Glasgow City Council,8441243,G41 5NG,"G41 5NG, Glasgow City Council",ASN,Hazelwood School (ASN),Netball,0,0,0,0,0,0,0
+2588,Broomhill Sports Club,West,Glasgow City Council,8406545,G20 9HW,"G20 9HW, Glasgow City Council",ASN,Highpark Unit (ASN),Netball,0,0,0,0,0,0,0
+2255,none,West,Glasgow City Council,8434239,G12 8LJ,"G12 8LJ, Glasgow City Council",Secondary,Hillhead High School,Netball,0,0,0,0,0,0,0
+2256,none,West,Glasgow City Council,8434336,G43 2XA,"G43 2XA, Glasgow City Council",Secondary,Hillpark Secondary School,Netball,0,0,0,0,0,0,0
+2259,Holyrood Netball Club (Glasgow),West,Glasgow City Council,8434530,G42 8AU,"G42 8AU, Glasgow City Council",Secondary,Holyrood Secondary School,Netball,0,0,0,0,0,0,0
+877,Broomhill Sports Club,West,Glasgow City Council,8414521,G11 5LP,"G11 5LP, Glasgow City Council",Primary,Hyndland Primary School,Netball,0,0,0,0,0,0,0
+2260,Broomhill Sports Club,West,Glasgow City Council,8434638,G12 9RQ,"G12 9RQ, Glasgow City Council",Secondary,Hyndland Secondary School,Netball,0,0,0,0,0,0,0
+2274,Maryhill Netball Community Club,West,Glasgow City Council,8458731,G23 5LY,"G23 5LY, Glasgow City Council",Secondary,John Paul Academy,Netball,0,0,0,0,0,0,0
+912,none,West,Glasgow City Council,8422621,G45 9UR,"G45 9UR, Glasgow City Council",Primary,John Paul II Primary School (St Dominics RCPS),Netball,0,0,0,0,0,0,0
+2520,none,West,Glasgow City Council,8441146,G20 8LH,"G20 8LH, Glasgow City Council",ASN,Kelbourne School (ASN),Netball,0,0,0,0,0,0,0
+929,Broomhill Sports Club,West,Glasgow City Council,8414823,G12 0BP,"G12 0BP, Glasgow City Council",Primary,Kelvindale Primary School,Netball,0,0,0,0,0,0,0
+969,Glasgow South Saltires Netball Club,West,Glasgow City Council,8415129,G44 4JS,"G44 4JS, Glasgow City Council",Primary,King's Park Primary School,Netball,0,0,0,0,0,0,0
+2285,none,West,Glasgow City Council,8435138,G44 5BL,"G44 5BL, Glasgow City Council",Secondary,King's Park Secondary School,Netball,0,0,0,0,0,0,0
+2525,none,West,Glasgow City Council,8441448,G45 0NJ,"G45 0NJ, Glasgow City Council",ASN,Kirkriggs School (ASN),Netball,0,0,0,0,0,0,0
+1020,Broomhill Sports Club,West,Glasgow City Council,8415226,G13 2TE,"G13 2TE, Glasgow City Council",Primary,Knightswood Primary School,Netball,0,0,0,0,0,0,0
+2295,none,West,Glasgow City Council,8435634,G13 2XD,"G13 2XD, Glasgow City Council",Secondary,Knightswood Secondary School,Netball,0,0,0,0,0,0,0
+1052,none,West,Glasgow City Council,8415420,G41 3JW,"G41 3JW, Glasgow City Council",Primary,Langside Primary School,Netball,0,0,0,0,0,0,0
+2311,none,West,Glasgow City Council,8435731,G34 0NZ,"G34 0NZ, Glasgow City Council",Secondary,Lochend Community High School,Netball,0,0,0,0,0,0,0
+2537,Broomhill Sports Club,West,Glasgow City Council,8452741,G11 5BP,"G11 5BP, Glasgow City Council",ASN,Middlefield School (ASN),Netball,0,0,0,0,0,0,0
+2539,none,West,Glasgow City Council,8446547,G22 7HL,"G22 7HL, Glasgow City Council",ASN,Milton School (ASN),Netball,0,0,0,0,0,0,0
+1218,The Nets,West,Glasgow City Council,8416729,G22 7PT,"G22 7PT, Glasgow City Council",Primary,Miltonbank Primary School,Netball,0,0,0,0,0,0,0
+1247,none,West,Glasgow City Council,8417024,G42 9HF,"G42 9HF, Glasgow City Council",Primary,Mount Florida Primary School,Netball,0,0,0,0,0,0,0
+2540,none,West,Glasgow City Council,8443742,G33 4HH,"G33 4HH, Glasgow City Council",ASN,Newhills Secondary (ASN),Netball,0,0,0,0,0,0,0
+2344,none,West,Glasgow City Council,8436134,G12 9LN,"G12 9LN, Glasgow City Council",Secondary,Notre Dame High School,Netball,0,0,0,0,0,0,0
+1329,Broomhill Sports Club,West,Glasgow City Council,8417520,G12 9JL,"G12 9JL, Glasgow City Council",Primary,Notre Dame Primary School,Netball,0,0,0,0,0,0,0
+1332,none,West,Glasgow City Council,8400121,G34 0JD,"G34 0JD, Glasgow City Council",Primary,Oakwood Primary School,Netball,0,0,0,0,0,0,0
+1351,none,West,Glasgow City Council,8423822,G33 4RY,"G33 4RY, Glasgow City Council",Primary,Our Lady of Peace RC Primary School,Netball,0,0,0,0,0,0,0
+1354,none,West,Glasgow City Council,8418225,G52 3AA,"G52 3AA, Glasgow City Council",Primary,Our Lady of the Rosary Primary School,Netball,0,0,0,0,0,0,0
+2545,none,West,Glasgow City Council,8441340,G31 3LP,"G31 3LP, Glasgow City Council",ASN,Parkhill School (ASN),Netball,0,0,0,0,0,0,0
+1380,North Glasgow Netball Club,West,Glasgow City Council,8446822,G23 5PZ,"G23 5PZ, Glasgow City Council",Primary,Parkview Primary School,Netball,0,0,0,0,0,0,0
+1416,none,West,Glasgow City Council,8418721,G41 2NA,"G41 2NA, Glasgow City Council",Primary,Pollokshields Primary School,Netball,0,0,0,0,0,0,0
+1439,Eastbank Netball Club,West,Glasgow City Council,8418926,G31 5AL,"G31 5AL, Glasgow City Council",Primary,Quarrybrae Primary School,Netball,0,0,0,0,0,0,0
+2556,none,West,Glasgow City Council,8442045,G22 7DD,"G22 7DD, Glasgow City Council",ASN,Rosevale School (ASN),Netball,0,0,0,0,0,0,0
+2374,none,West,Glasgow City Council,8436339,G52 3PD,"G52 3PD, Glasgow City Council",Secondary,Rosshall Academy,Netball,0,0,0,0,0,0,0
+1494,none,West,Glasgow City Council,8419221,G21 2NU,"G21 2NU, Glasgow City Council",Primary,Royston Primary School,Netball,0,0,0,0,0,0,0
+1495,Maryhill Netball Community Club,West,Glasgow City Council,8419426,G20 9HW,"G20 9HW, Glasgow City Council",Primary,Ruchill Primary School,Netball,0,0,0,0,0,0,0
+1507,none,West,Glasgow City Council,8445028,G33 4SA,"G33 4SA, Glasgow City Council",Primary,Sandaig Primary School,Netball,0,0,0,0,0,0,0
+1519,none,West,Glasgow City Council,8428328,G22 5AX,"G22 5AX, Glasgow City Council",Primary,Saracen Primary School,Netball,0,0,0,0,0,0,0
+1536,none,West,Glasgow City Council,8428824,G41 3QP,"G41 3QP, Glasgow City Council",Primary,Shawlands Primary School,Netball,0,0,0,0,0,0,0
+2388,none,West,Glasgow City Council,8437130,G33 2QU,"G33 2QU, Glasgow City Council",Secondary,Smithycroft Secondary School,Netball,0,0,0,0,0,0,0
+2390,none,West,Glasgow City Council,8431639,G21 4JL,"G21 4JL, Glasgow City Council",Secondary,Springburn Academy,Netball,0,0,0,0,0,0,0
+1588,Glasgow South Saltires Netball Club,West,Glasgow City Council,8419922,G41 5DU,"G41 5DU, Glasgow City Council",Primary,St Alberts RC Primary School,Netball,0,0,0,0,0,0,0
+2397,none,West,Glasgow City Council,8437238,G32 6QE,"G32 6QE, Glasgow City Council",Secondary,St Andrew's Secondary School,Netball,0,0,0,0,0,0,0
+1602,none,West,Glasgow City Council,8448825,G53 7HT,"G53 7HT, Glasgow City Council",Primary,St Angelas RC Primary School,Netball,0,0,0,0,0,0,0
+1605,Eastbank Netball Club,West,Glasgow City Council,8420424,G40 2UN,"G40 2UN, Glasgow City Council",Primary,St Annes RC Primary School,Netball,0,0,0,0,0,0,0
+1616,none,West,Glasgow City Council,8420823,G34 0LT,"G34 0LT, Glasgow City Council",Primary,St Benedict's RC Primary School,Netball,0,0,0,0,0,0,0
+1620,none,West,Glasgow City Council,8420920,G53 7BP,"G53 7BP, Glasgow City Council",Primary,St Bernard's RC Primary School,Netball,0,0,0,0,0,0,0
+1622,Maryhill Netball Community Club,West,Glasgow City Council,8446725,G23 5QB,"G23 5QB, Glasgow City Council",Primary,St Blanes RC Primary School,Netball,0,0,0,0,0,0,0
+1625,none,West,Glasgow City Council,8421129,G13 4HG,"G13 4HG, Glasgow City Council",Primary,St Brendan's RC Primary School,Netball,0,0,0,0,0,0,0
+1628,Glasgow South Saltires Netball Club,West,Glasgow City Council,8421226,G42 8NB,"G42 8NB, Glasgow City Council",Primary,St Brides RC Primary School,Netball,0,0,0,0,0,0,0
+1632,none,West,Glasgow City Council,8455120,G69 6DF,"G69 6DF, Glasgow City Council",Primary,St Bridgets RC Primary School,Netball,0,0,0,0,0,0,0
+1638,none,West,Glasgow City Council,8421420,G21 3JR,"G21 3JR, Glasgow City Council",Primary,St Catherines RC Primary School,Netball,0,0,0,0,0,0,0
+1642,none,West,Glasgow City Council,8421528,G20 6BG,"G20 6BG, Glasgow City Council",Primary,St Charles' RC Primary School,Netball,0,0,0,0,0,0,0
+1643,none,West,Glasgow City Council,8427429,G15 8RP,"G15 8RP, Glasgow City Council",Primary,St Clares RC Primary School,Netball,0,0,0,0,0,0,0
+1652,Glasgow South Saltires Netball Club,West,Glasgow City Council,8422125,G43 1SY,"G43 1SY, Glasgow City Council",Primary,St Convals RC Primary School,Netball,0,0,0,0,0,0,0
+1655,none,West,Glasgow City Council,8422222,G22 5NT,"G22 5NT, Glasgow City Council",Primary,St Cuthberts RC Primary School,Netball,0,0,0,0,0,0,0
+1662,Eastbank Netball Club,West,Glasgow City Council,8422524,G31 2RZ,"G31 2RZ, Glasgow City Council",Primary,St Denis's RC Primary School,Netball,0,0,0,0,0,0,0
+1672,Glasgow South Saltires Netball Club,West,Glasgow City Council,8422729,G44 5AF,"G44 5AF, Glasgow City Council",Primary,St Fillans RC Primary School,Netball,0,0,0,0,0,0,0
+1677,none,West,Glasgow City Council,8422826,G5 0PA,"G5 0PA, Glasgow City Council",Primary,St Francis RC Primary School,Netball,0,0,0,0,0,0,0
+1681,none,West,Glasgow City Council,8422923,G52 2QJ,"G52 2QJ, Glasgow City Council",Primary,St Georges RC Primary School,Netball,0,0,0,0,0,0,0
+1690,none,West,Glasgow City Council,8455627,G32 8BZ,"G32 8BZ, Glasgow City Council",Primary,St Joachims RC Primary School,Netball,0,0,0,0,0,0,0
+1720,none,West,Glasgow City Council,8423725,G4 9QX,"G4 9QX, Glasgow City Council",Primary,St Josephs RC Primary School,Netball,0,0,0,0,0,0,0
+2568,none,West,Glasgow City Council,8442746,G21 1TN,"G21 1TN, Glasgow City Council",ASN,St Kevins RC School (ASN),Netball,0,0,0,0,0,0,0
+1751,none,West,Glasgow City Council,8425426,G33 3LT,"G33 3LT, Glasgow City Council",Primary,St Maria Goretti RC Primary School,Netball,0,0,0,0,0,0,0
+1758,none,West,Glasgow City Council,8424721,G53 5LW,"G53 5LW, Glasgow City Council",Primary,St Marnocks RC Primary School,Netball,0,0,0,0,0,0,0
+1759,Broomhill Sports Club,West,Glasgow City Council,8424829,G21 3NG,"G21 3NG, Glasgow City Council",Primary,St Marthas RC Primary School,Netball,0,0,0,0,0,0,0
+1790,Eastbank Netball Club,West,Glasgow City Council,8425221,G31 4HZ,"G31 4HZ, Glasgow City Council",Primary,St Michaels RC Primary School,Netball,0,0,0,0,0,0,0
+1792,none,West,Glasgow City Council,8425329,G44 5AP,"G44 5AP, Glasgow City Council",Primary,St Mirins RC Primary School,Netball,0,0,0,0,0,0,0
+1794,none,West,Glasgow City Council,8425523,G53 5SR,"G53 5SR, Glasgow City Council",Primary,St Monicas RC Primary School,Netball,0,0,0,0,0,0,0
+1796,none,West,Glasgow City Council,8420220,G22 7QX,"G22 7QX, Glasgow City Council",Primary,St Monica's RC Primary School (Milton),Netball,0,0,0,0,0,0,0
+1797,none,West,Glasgow City Council,8438439,G40 2RA,"G40 2RA, Glasgow City Council",Secondary,St Mungo's Academy,Netball,0,0,0,0,0,0,0
+1798,none,West,Glasgow City Council,8425620,G4 0PX,"G4 0PX, Glasgow City Council",Primary,St Mungos RC Primary School,Netball,0,0,0,0,0,0,0
+1820,none,West,Glasgow City Council,8425825,G3 8UQ,"G3 8UQ, Glasgow City Council",Primary,St Patricks RC Primary School,Netball,0,0,0,0,0,0,0
+2420,none,West,Glasgow City Council,8432139,G53 5HW,"G53 5HW, Glasgow City Council",Secondary,St Paul's High School,Netball,0,0,0,0,0,0,0
+1831,none,West,Glasgow City Council,8425922,G32 7RR,"G32 7RR, Glasgow City Council",Primary,St Pauls RC Primary School (Anworth Street),Netball,0,0,0,0,0,0,0
+1832,none,West,Glasgow City Council,8426023,G14 0TF,"G14 0TF, Glasgow City Council",Primary,St Pauls RC Primary School (Primrose Street),Netball,0,0,0,0,0,0,0
+1843,Broomhill Sports Club,West,Glasgow City Council,8426422,G33 1EA,"G33 1EA, Glasgow City Council",Primary,St Philomenas RC Primary School,Netball,0,0,0,0,0,0,0
+2570,none,West,Glasgow City Council,8442940,G45 9SR,"G45 9SR, Glasgow City Council",ASN,St Raymonds RC School (ASN),Netball,0,0,0,0,0,0,0
+2423,none,West,Glasgow City Council,8438730,G21 2NF,"G21 2NF, Glasgow City Council",Secondary,St Roch's Secondary School,Netball,0,0,0,0,0,0,0
+1848,none,West,Glasgow City Council,8426929,G33 5QS,"G33 5QS, Glasgow City Council",Primary,St Rose of Lima RC Primary School,Netball,0,0,0,0,0,0,0
+1855,none,West,Glasgow City Council,8427623,G21 1NL,"G21 1NL, Glasgow City Council",Primary,St Stephens RC Primary School,Netball,0,0,0,0,0,0,0
+1860,none,West,Glasgow City Council,8427720,G22 5AX,"G22 5AX, Glasgow City Council",Primary,St Teresas RC Primary School,Netball,0,0,0,0,0,0,0
+2425,none,West,Glasgow City Council,8438838,G14 9PP,"G14 9PP, Glasgow City Council",Secondary,St Thomas Aquinas Secondary,Netball,0,0,0,0,0,0,0
+1866,none,West,Glasgow City Council,8427925,G33 2QJ,"G33 2QJ, Glasgow City Council",Primary,St Thomas' RC Primary School,Netball,0,0,0,0,0,0,0
+1868,none,West,Glasgow City Council,8428026,G32 6SL,"G32 6SL, Glasgow City Council",Primary,St Timothys RC Primary School,Netball,0,0,0,0,0,0,0
+2571,none,West,Glasgow City Council,8453640,G46 8EY,"G46 8EY, Glasgow City Council",ASN,St Vincents School (ASN),Netball,0,0,0,0,0,0,0
+1930,Broomhill Sports Club,West,Glasgow City Council,8457824,G69 6AZ,"G69 6AZ, Glasgow City Council",Primary,Swinton Primary School,Netball,0,0,0,0,0,0,0
+1955,Broomhill Sports Club,West,Glasgow City Council,8430322,G11 7QZ,"G11 7QZ, Glasgow City Council",Primary,Thornwood Primary School,Netball,0,0,0,0,0,0,0
+2574,none,West,Glasgow City Council,8430640,G42 0ER,"G42 0ER, Glasgow City Council",ASN,Toryglen School (ASN),Netball,0,0,0,0,0,0,0
+2035,none,West,Glasgow City Council,8430926,G32 7QD,"G32 7QD, Glasgow City Council",Primary,Wellshot Primary School,Netball,0,0,0,0,0,0,0
+2046,North Glasgow Netball Club,West,Glasgow City Council,8447020,G22 5QN,"G22 5QN, Glasgow City Council",Primary,Westercommon Primary School,Netball,0,0,0,0,0,0,0
+2464,none,West,Glasgow City Council,8439532,G31 2QF,"G31 2QF, Glasgow City Council",Secondary,Whitehill Secondary School,Netball,0,0,0,0,0,0,0
+2062,Broomhill Sports Club,West,Glasgow City Council,8431027,G14 9RP,"G14 9RP, Glasgow City Council",Primary,Whiteinch Primary School,Netball,0,0,0,0,0,0,0
+2096,none,West,Glasgow City Council,8431426,G14 0ES,"G14 0ES, Glasgow City Council",Primary,Yoker Primary School,Netball,0,0,0,0,0,0,0
+462,none,West,Glasgow City Council,8416621,G33 3LT,"G33 3LT, Glasgow City Council",Primary,Cranhill Primary School,Netball,0,0,0,0,0,0,0
+1771,none,West,Glasgow City Council,8425124,G20 0EL,"G20 0EL, Glasgow City Council",Primary,St Marys RC Primary School,Netball,0,0,0,0,0,0,0
+1845,none,West,Glasgow City Council,8426821,G21 2BS,"G21 2BS, Glasgow City Council",Primary,St Roch's RC Primary School,Netball,0,0,0,0,0,0,0
+2073,none,West,Glasgow City Council,8550743,ML5 1EG,"ML5 1EG, Glasgow City Council",Primary,Willowbank Primary School,Netball,0,0,0,0,0,0,0
+2318,none,West,Glasgow City Council,8435839,G52 3DF,"G52 3DF, Glasgow City Council",Secondary,Lourdes Secondary School,Netball,0,0,0,0,0,0,0
+2476,none,West,Glasgow City Council,8459045,G22 5AX,"G22 5AX, Glasgow City Council",ASN,Broomlea School (ASN),Netball,0,0,0,0,0,0,0
+2483,none,West,Glasgow City Council,8440042,G51 2BG,"G51 2BG, Glasgow City Council",ASN,Cartvale Secondary (ASN),Netball,0,0,0,0,0,0,0
+2488,none,West,Glasgow City Council,8459142,G33 5NY,"G33 5NY, Glasgow City Council",ASN,Croftcroighn School (ASN),Netball,0,0,0,0,0,0,0
+2499,none,West,Glasgow City Council,8440646,G21 3DZ,"G21 3DZ, Glasgow City Council",ASN,Gadburn School (ASN),Netball,0,0,0,0,0,0,0
+2504,none,West,Glasgow City Council,8440549,G22 6DJ,"G22 6DJ, Glasgow City Council",ASN,Greenview School (ASN),Netball,0,0,0,0,0,0,0
+2511,none,West,Glasgow City Council,8440948,G42 7HU,"G42 7HU, Glasgow City Council",ASN,Hollybrook School (ASN),Netball,0,0,0,0,0,0,0
+2512,none,West,Glasgow City Council,8441049,G53 7TX,"G53 7TX, Glasgow City Council",ASN,Howford School (ASN),Netball,0,0,0,0,0,0,0
+2527,none,West,Glasgow City Council,8447241,G53 5FD,"G53 5FD, Glasgow City Council",ASN,Langlands (ASN),Netball,0,0,0,0,0,0,0
+2530,none,West,Glasgow City Council,8443645,G52 4EX,"G52 4EX, Glasgow City Council",ASN,Linburn School (ASN),Netball,0,0,0,0,0,0,0
+2569,none,West,Glasgow City Council,8442843,G44 3NF,"G44 3NF, Glasgow City Council",ASN,St Oswalds School (ASN),Netball,0,0,0,0,0,0,0
